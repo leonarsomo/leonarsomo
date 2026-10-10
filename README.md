@@ -54,6 +54,10 @@ I focus on solving real-world problems in vulnerable and diverse educational con
 - **AI + STEM Educational Innovation.** Integration of Artificial Intelligence, computational thinking, and electronics in school environments.
 - **Statistical Modeling and Machine Learning.** Comparative analysis of regression models and predictive approaches for data-driven decision-making.
 
+## AI-assisted workflow
+
+This repository is set up for [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode), a multi-agent orchestration plugin for Claude Code. Opening it in Claude Code offers to install the plugin; run `/omc-setup` once, then use `/deep-interview`, `/autopilot --workflow plan-build-qa` or `/team` for planned, verified work.
+
 ## Educational impact
 
 Teacher and researcher at IE Manuel Germán Cuello Gutiérrez (Valledupar, Colombia): inclusive strategies based on DUA, STEM+ curricula, integration of AI in secondary education, and promotion of critical, reflective, and transformative learning.

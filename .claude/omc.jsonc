@@ -1,0 +1,13 @@
+// oh-my-claudecode project configuration
+// Docs: https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/docs/REFERENCE.md
+{
+  "autopilot": {
+    "workflows": {
+      // Usage: /autopilot --workflow plan-build-qa "<task>"
+      "plan-build-qa": {
+        "version": 1,
+        "stages": ["ralplan", "execution", "qa"]
+      }
+    }
+  }
+}

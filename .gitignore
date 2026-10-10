@@ -1,0 +1,4 @@
+# oh-my-claudecode local runtime state (prompts, transcripts, logs)
+.omc/*
+# Project-scoped OMC skills are meant to be shared
+!.omc/skills/
